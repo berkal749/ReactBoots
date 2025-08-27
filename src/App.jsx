@@ -1,6 +1,6 @@
-import Image from "./img";
-import Name from "./name";
-import Description from "./description";
+import Image from "./components/img";
+import Name from "./components/name";
+import Description from "./components/description";
 import SomeWhere from "./someWhere";
 import "bootstrap/dist/css/bootstrap.min.css";
 

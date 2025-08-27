@@ -1,4 +1,4 @@
-import Pro from "./product"
+import Pro from "../product"
 
 function img(){
 
